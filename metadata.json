@@ -1,0 +1,4 @@
+{
+  "name": "NeuroForge Universal Interface",
+  "description": "A universal frontend dashboard designed for Deep Learning hackathons. Supports Image, Audio, Video, and Text inputs, connecting seamlessly to a FastAPI backend."
+}
